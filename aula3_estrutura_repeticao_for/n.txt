@@ -1,0 +1,15 @@
+if(number%3 == 0):
+  if(number%4 == 0):
+    print("number divisivel por 12")
+    
+else:
+  print("numero nao divisivel por 12")
+
+
+------------------------------
+
+if(number%3 == 0)
+
+elif(number%4 == 0) 
+
+else: ?
